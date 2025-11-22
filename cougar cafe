@@ -4,6 +4,7 @@ cougar-cafe/
 │   └── server.js
 └── frontend/
     └── index.html
+
 {
   "name": "cougar-cafe-backend",
   "version": "1.0.0",
